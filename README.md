@@ -8,6 +8,8 @@ This project analyzes 50,000 e-commerce customer records to understand customer 
 
 The dashboard was developed in Microsoft Excel using Pivot Tables, Pivot Charts, KPIs, calculated columns, and interactive slicers to convert raw customer data into actionable business insights.
 
+Dataset Link - https://www.kaggle.com/datasets/dhairyajeetsingh/ecommerce-customer-behavior-dataset/data
+
 ---
 
 # Business Objective
